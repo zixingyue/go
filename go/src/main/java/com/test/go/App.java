@@ -1,7 +1,8 @@
 package com.test.go;
 
 /**
- * Hello world!
+ * 
+ * @author admin
  *
  */
 public class App 
